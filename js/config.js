@@ -10,7 +10,7 @@
 /*URL for the server logo
 Leave it blank to use text instead
 (Put the files in the images folder)*/
-var l_serverImage = "vortexicon.jpg"
+var l_serverImage = "vortexicon.png"
 
 /*Display current map and gamemode?
 'true' or 'false'*/
@@ -93,7 +93,7 @@ var l_bgOverlay = true;
 
 /*Background darkening amount
 0 for none (0%), 100 for pitch black (100%)*/
-var l_bgDarkening = 50;
+var l_bgDarkening = 0;
 
 /*Play music during the loading screen?
 'true' or 'false'*/
