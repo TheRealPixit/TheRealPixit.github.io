@@ -23,7 +23,7 @@ var l_serverName = "";
 /*Use a video for the background?
 Otherwise it will use images
 'true' or 'false'*/
-var l_bgVideo = false;
+var l_bgVideo = true;
 
 /*Default available videos:
 "aurora.webm"
@@ -59,7 +59,7 @@ You need to have a background image with the same name as the map
 Also, the image needs to be in .jpg format
 E.g: gm_flatgrass.jpg, gm_construct.jpg, rp_downtown_v4c_v2.jpg
 'true' or 'false'*/
-var l_bgImageMapBased = true;
+var l_bgImageMapBased = false;
 
 /*(Image-background only)
 Place one or more images
@@ -68,7 +68,7 @@ Multiple images will automatically shuffle between them
 var l_bgImages = [
 	"your.jpg",
 	"mom.jpg",
-	"is.jpg",
+	"is.jpg", 
 	"gay.jpg"
 ];
 
