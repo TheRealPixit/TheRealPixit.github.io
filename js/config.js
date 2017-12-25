@@ -66,10 +66,10 @@ Place one or more images
 Multiple images will automatically shuffle between them
 (Place the files in the backgrounds/images folder)*/
 var l_bgImages = [
-	"backgound1.jpg",
-	"backgound2.jpg",
-	"backgound3.jpg",
-	"backgound4.jpg"
+	"your.jpg",
+	"mom.jpg",
+	"is.jpg",
+	"gay.jpg"
 ];
 
 /*(Image-background only)
