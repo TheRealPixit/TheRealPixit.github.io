@@ -18,7 +18,7 @@ var l_displayMapGamemode = true;
 
 /*Custom server name configuration
 Leave it blank for automatic server name*/
-var l_serverName = "Vortex RP";
+var l_serverName = "";
 
 /*Use a video for the background?
 Otherwise it will use images
@@ -50,7 +50,7 @@ var l_bgVideo = false;
 You can add your own video backgrounds
 Just make sure they are using webm VP8 format 
 (Place the videos in the backgrounds/videos folder)*/
-var l_background = "bluefall.webm";
+var l_background = "coldnight.webm";
 
 /*(Image-background only)
 Enable map-based background image?
@@ -59,7 +59,7 @@ You need to have a background image with the same name as the map
 Also, the image needs to be in .jpg format
 E.g: gm_flatgrass.jpg, gm_construct.jpg, rp_downtown_v4c_v2.jpg
 'true' or 'false'*/
-var l_bgImageMapBased = false;
+var l_bgImageMapBased = true;
 
 /*(Image-background only)
 Place one or more images
