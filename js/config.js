@@ -50,7 +50,7 @@ var l_bgVideo = true;
 You can add your own video backgrounds
 Just make sure they are using webm VP8 format 
 (Place the videos in the backgrounds/videos folder)*/
-var l_background = "coldnight.webm";
+var l_background = "VAPORWAVE.webm";
 
 /*(Image-background only)
 Enable map-based background image?
@@ -110,6 +110,7 @@ var l_musicPlaylist = [
     {youtube: "JyNYkWKHf1Q", name: "Heavy Rain | Lofi HipHop"},
 	{youtube: "eNy37U0vX1U", name: "Life Is Strange | Lofi HipHop"},
 	{youtube: "z-vRB294lJQ", name: "Altitude | Trains"},
+	{youtube: "j2QKetnDHg0", name: "Miss Kobayashi's Dragon Maid-Ishukan Communication (Remix feat. Nikki-Chi)"}
 ];
 
 /*Random music order?
@@ -118,7 +119,7 @@ var l_musicRandom = true;
 
 /*Music volume
 Choose a value between 0 (quietest) and 100 (loudest)*/
-var l_musicVolume = 15;
+var l_musicVolume = 20;
 
 /*Enable custom messages?
 'true' or 'false'*/
@@ -126,9 +127,9 @@ var l_messagesEnabled = true;
 
 /*Enter your custom messages below*/
 var l_messages = [
-	"We Have Custom Printers, Just Wait!",
+	"We Have Fully Custom Printers For You To Use.",
 	"Just Wait For The Addons, It Is Worth It!",
-	"Vip Ranks Are 50% Off!",
+	"If You Would Want A Song On The Loading Screen You Can Donate $1 To Get It Added.",
 ];
 
 /*Random message order?
