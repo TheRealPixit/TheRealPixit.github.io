@@ -14,7 +14,7 @@ var l_serverImage = "vortexicon.png"
 
 /*Display current map and gamemode?
 'true' or 'false'*/
-var l_displayMapGamemode = true;
+var l_displayMapGamemode = false;
 
 /*Custom server name configuration
 Leave it blank for automatic server name*/
@@ -107,8 +107,8 @@ var l_musicDisplay = true;
 Add as many youtube ids or ogg files you want
 (Place the ogg files in the music folder)*/
 var l_musicPlaylist = [
-    {youtube: "JyNYkWKHf1Q", name: "Heavy Rain | Lofi HipHop"},
-	{youtube: "eNy37U0vX1U", name: "Life Is Strange | Lofi HipHop"},
+    {youtube: "la9C0n7jSsI", name: "Kero Kero Bonito-Flamingo (WTN3 Remix)"},
+	{youtube: "Jmv5pTyz--I", name: "Stranger Things Theme Song (C418 REMIX)"},
 	{youtube: "z-vRB294lJQ", name: "Altitude | Trains"},
 	{youtube: "j2QKetnDHg0", name: "Miss Kobayashi's Dragon Maid-Ishukan Communication (Remix feat. Nikki-Chi)"}
 ];
