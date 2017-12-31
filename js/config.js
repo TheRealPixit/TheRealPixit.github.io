@@ -126,8 +126,8 @@ var l_messagesEnabled = true;
 
 /*Enter your custom messages below*/
 var l_messages = [
-	"Enjoy The Server & Remember To Read Motd.",
-	"Welcome To Vortex RP!",
+	"We Have Custom Printers, Just Wait!",
+	"Just Wait For The Addons, It Is Worth It!",
 	"Vip Ranks Are 50% Off!",
 ];
 
