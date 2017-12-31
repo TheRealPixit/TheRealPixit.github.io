@@ -107,8 +107,8 @@ var l_musicDisplay = true;
 Add as many youtube ids or ogg files you want
 (Place the ogg files in the music folder)*/
 var l_musicPlaylist = [
-    {youtube: "la9C0n7jSsI", name: "Kero Kero Bonito-Flamingo (WTN3 Remix)"},
-	{youtube: "Jmv5pTyz--I", name: "Stranger Things Theme Song (C418 REMIX)"},
+    {youtube: "cr8KRsfCNNI", name: "Kero Kero Bonito-Flamingo (WTN3 Remix)"},
+	{youtube: "Jmv5pTyz--I", name: "Stranger Things-Main Theme (Cybass Remix)"},
 	{youtube: "z-vRB294lJQ", name: "Altitude | Trains"},
 	{youtube: "j2QKetnDHg0", name: "Miss Kobayashi's Dragon Maid-Ishukan Communication (Remix feat. Nikki-Chi)"}
 ];
