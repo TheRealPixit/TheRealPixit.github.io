@@ -107,9 +107,7 @@ var l_musicDisplay = true;
 Add as many youtube ids or ogg files you want
 (Place the ogg files in the music folder)*/
 var l_musicPlaylist = [
-    {youtube: "la9C0n7jSsI", name: "Kero Kero Bonito-Flamingo (WTN3 Remix)"},
 	{youtube: "z-vRB294lJQ", name: "Altitude | Trains"},
-	{youtube: "j2QKetnDHg0", name: "Miss Kobayashi's Dragon Maid-Ishukan Communication (Remix feat. Nikki-Chi)"}
 ];
 
 /*Random music order?
@@ -118,7 +116,7 @@ var l_musicRandom = true;
 
 /*Music volume
 Choose a value between 0 (quietest) and 100 (loudest)*/
-var l_musicVolume = 30;
+var l_musicVolume = 10;
 
 /*Enable custom messages?
 'true' or 'false'*/
@@ -126,8 +124,8 @@ var l_messagesEnabled = true;
 
 /*Enter your custom messages below*/
 var l_messages = [
-	"We Have Fully Custom Printers For You To Use.",
-	"Just Wait For The Addons, It Is Worth It!",
+	"Remember TO Read Motd And Follow The Rules!",
+	"Wait For The Addons, They Won't Take Long",
 	"If You Would Want A Song On The Loading Screen You Can Donate $1 To Get It Added.",
 ];
 
