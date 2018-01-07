@@ -125,7 +125,7 @@ var l_messagesEnabled = true;
 
 /*Enter your custom messages below*/
 var l_messages = [
-	"Remember TO Read Motd And Follow The Rules!",
+	"Remember To Read Motd And Follow The Rules!",
 	"Wait For The Addons, They Won't Take Long",
 	"If You Would Want A Song On The Loading Screen You Can Donate $1 To Get It Added.",
 ];
